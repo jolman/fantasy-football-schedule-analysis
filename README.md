@@ -1,5 +1,4 @@
 # fantasy-football-schedule-analysis
-See how much your league's schedule has affected your season
 
 You know how sometimes in fantasy football you have a good week but happen to be matched up against the week's highest scorer, so you lose? Or how sometimes you have a terrible week but happen to be facing someone who had an even worse week, so you still win? Of course you do! Is that fun? I guess depends on which side of that you're on, but what's _always_ fun is quantifying everyone's schedule luck.
 
