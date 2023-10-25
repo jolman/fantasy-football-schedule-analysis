@@ -7,7 +7,7 @@ authors = ["Jay Olman <olman.jay@gmail.com>"]
 [tool.poetry.dependencies]
 python = "^3.8"
 pandas = "^1.3.4"
-espn-api = "^0.18.4"
+espn-api = "^0.32.0"
 PyYAML = "^6.0"
 jupyter = "^1.0.0"
 matplotlib = "^3.4.3"
